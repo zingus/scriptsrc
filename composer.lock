@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "2c19b5201a6a3d589cf91b69ca74d627",
+    "packages": [
+        {
+            "name": "zingus/dirutils",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zingus/dirutils.git",
+                "reference": "4b04fa106f1f2c7200c3c81ec9111733c19dcf34"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zingus/dirutils/zipball/4b04fa106f1f2c7200c3c81ec9111733c19dcf34",
+                "reference": "4b04fa106f1f2c7200c3c81ec9111733c19dcf34",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "DirUtils\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "zingus",
+                    "email": "zingus@gmail.com"
+                }
+            ],
+            "description": "Directory walking and creation library",
+            "time": "2018-02-08T16:49:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "zingus/dirutils": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
