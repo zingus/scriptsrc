@@ -2,7 +2,7 @@
     "name": "zingus/scriptsrc",
     "description": "Simplicistic autoloader for client-side npm, bower, yarm javascript modules",
     "type": "library",
-    "license": "GPL-V3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "zingus",
