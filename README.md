@@ -2,6 +2,6 @@
 
 A simplicistic autoloader for client-side npm, bower, yarm javascript modules
 
-#Installation
+# Installation
 
 composer require zingus/scriptsrc
