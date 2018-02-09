@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zingus/dirutils.git",
-                "reference": "4b04fa106f1f2c7200c3c81ec9111733c19dcf34"
+                "reference": "7fb189e4347ee50f2a9ebf560602e61665fcc8cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zingus/dirutils/zipball/4b04fa106f1f2c7200c3c81ec9111733c19dcf34",
-                "reference": "4b04fa106f1f2c7200c3c81ec9111733c19dcf34",
+                "url": "https://api.github.com/repos/zingus/dirutils/zipball/7fb189e4347ee50f2a9ebf560602e61665fcc8cc",
+                "reference": "7fb189e4347ee50f2a9ebf560602e61665fcc8cc",
                 "shasum": ""
             },
             "type": "library",
@@ -37,7 +37,7 @@
                 }
             ],
             "description": "Directory walking and creation library",
-            "time": "2018-02-08T16:49:29+00:00"
+            "time": "2018-02-09T15:50:37+00:00"
         }
     ],
     "packages-dev": [],
