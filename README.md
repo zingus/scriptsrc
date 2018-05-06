@@ -1,6 +1,6 @@
 # ScriptSrc
 
-A simplicistic autoloader for client-side npm, bower, yarm javascript modules
+A simple autoloader for client-side npm, bower, yarm javascript modules
 
 # Installation
 
