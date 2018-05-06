@@ -47,6 +47,7 @@ class ScriptSrc extends Walker
 
 $ss=new ScriptSrc();
 //$ss->printheaders();
+
 $ss->echo();
 
 
